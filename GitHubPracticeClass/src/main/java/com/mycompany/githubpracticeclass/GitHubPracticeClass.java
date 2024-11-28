@@ -17,4 +17,7 @@ public class GitHubPracticeClass {
     public void firstGitMethod(){
         System.out.println("Well Come to Github");
     }
+      public void filmonKahsay(){
+        System.out.println("Well Come our instructor");
+    }
 }
